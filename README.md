@@ -1,5 +1,9 @@
 # Stev232sEcommerceBackEnd
 
+## Description
+
+This project demonstrates using sequelize to retreive, update, create, and even delete data by id. If there is a failure to connect to the mysql database then you will get an error 500 code. If the id does not exist then you will get either a 400 or 404 error code. Otherwise if the request is a success then you will get a 200 success code.
+
 ## Acceptance Criteria
 
 GIVEN a functional Express.js API <br>
@@ -15,8 +19,6 @@ __THEN__ the data for each of these routes is displayed in a formatted JSON <br>
 __THEN__ I am able to successfully create, update, and delete data in my database <br>
 
 ## Database Modules
-
-
 
 * Category
     * id
