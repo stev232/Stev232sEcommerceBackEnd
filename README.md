@@ -80,3 +80,7 @@ __Category__ has many __Product__ models.
 __Product__ belongs to many __Tag__ models. Using the *__ProductTag__* through model, allow __products__ to have multiple __tags__ and __tags__ to have many __products__.
 
 __Tag__ belongs to many __Product__ models.
+
+## Demo Video
+
+https://drive.google.com/file/d/1fQOmgk1-fbvVAMgIz4FaOEv58cehmU1K/view
